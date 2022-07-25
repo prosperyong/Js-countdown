@@ -6,6 +6,7 @@ body {
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #8b39d2d3#8E2DE2);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin-top: 10em;
 }
 
 .container {
@@ -17,10 +18,10 @@ body {
     height: 50vh;
     margin: auto;
     border-radius: 1.5em;
-    .time {
-        text-align: center;
-        padding: 7em;
-        time {
+    text-align: center;
+    .countdown {
+        padding: 5em;
+        p {
             font-family: 'Orbitron', sans-serif;
             font-size: 5em;
             color: #fff;

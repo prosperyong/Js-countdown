@@ -5,6 +5,7 @@ body {
   /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, rgba(139, 57, 210, 0.8274509804) #8E2DE2);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  margin-top: 10em;
 }
 
 .container {
@@ -16,12 +17,12 @@ body {
   height: 50vh;
   margin: auto;
   border-radius: 1.5em;
-}
-.container .time {
   text-align: center;
-  padding: 7em;
 }
-.container .time time {
+.container .countdown {
+  padding: 5em;
+}
+.container .countdown p {
   font-family: "Orbitron", sans-serif;
   font-size: 5em;
   color: #fff;
