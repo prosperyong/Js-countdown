@@ -19,10 +19,11 @@ body {
   border-radius: 1.5em;
   text-align: center;
 }
-.container .countdown {
+
+.countdown {
   padding: 5em;
 }
-.container .countdown p {
+.countdown p {
   font-family: "Orbitron", sans-serif;
   font-size: 5em;
   color: #fff;
