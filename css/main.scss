@@ -19,13 +19,12 @@ body {
     margin: auto;
     border-radius: 1.5em;
     text-align: center;
-}
-
-.countdown {
-    padding: 5em;
-    p {
-        font-family: 'Orbitron', sans-serif;
-        font-size: 5em;
-        color: #fff;
+    .countdown {
+        padding: 5em;
+        p {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 5em;
+            color: #fff;
+        }
     }
 }
